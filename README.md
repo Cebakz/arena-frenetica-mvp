@@ -2,6 +2,8 @@
 
 Um projeto Unity 6 novo e separado dos protótipos anteriores. A primeira versão usa o mapa limpo e as artes originais fornecidas pelo criador. O cenário é uma imagem de alta resolução; heróis, torres, bases, vida e colisões são elementos independentes.
 
+**Jogue no navegador:** https://cebakz.github.io/arena-frenetica-mvp/
+
 ## Jogar
 
 Abra `docs/index.html` por um servidor HTTP ou acesse a versão publicada no GitHub Pages. No computador, use WASD/setas, Espaço para atacar, Q para avançar e E para usar o poder. No celular, use o controle à esquerda e os três botões à direita.
